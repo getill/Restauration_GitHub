@@ -37,7 +37,7 @@ Pour faire de cette nouvelle branche votre branche principale, vous devez faire 
 ![Screenshot 3](3.png)
 
 Une fois la Pull request faite, il suffira de la merge à main. "And voilà"
-
+(ATTENTION : Pour faire une ull request, un commit contenant les modifications souhaitées (restauration d'image, changement des lignes) doit être fait au préalable sur la nouvelle branche) 
 
 
 
