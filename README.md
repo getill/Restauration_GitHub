@@ -23,6 +23,6 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais v
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche pour que vous puissiez ensuite la fusionner avec votre branche principale. C'est à dire faire de cette branche de restauration votre branche main.
 
-**C'est vous de créer la suite de cette procedure de restauration**  
+
+
