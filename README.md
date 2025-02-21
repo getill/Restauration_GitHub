@@ -34,6 +34,7 @@ Bravo, vous venez de créer une nouvelle branche.
 Pour faire de cette nouvelle branche votre branche principale, vous devez faire un "Pull request".  
 
 ![Screenshot Pull1](Pull1.jpg)
+![Screenshot 3](3.jpg)
 
 Une fois la Pull request faite, il suffira de la merge à main. "And voilà"
 
